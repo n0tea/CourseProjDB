@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Programs\\Visual Studio\\source project\\WROking\\DBSiteNew\\wwwroot\\images\\futb.png",
+      "PackagePath": "staticwebassets\\images\\futb.png"
+    },
+    {
+      "Id": "E:\\Programs\\Visual Studio\\source project\\WROking\\DBSiteNew\\wwwroot\\images\\futb2.png",
+      "PackagePath": "staticwebassets\\images\\futb2.png"
+    },
+    {
+      "Id": "E:\\Programs\\Visual Studio\\source project\\WROking\\DBSiteNew\\wwwroot\\images\\pant.png",
+      "PackagePath": "staticwebassets\\images\\pant.png"
+    },
+    {
+      "Id": "E:\\Programs\\Visual Studio\\source project\\WROking\\DBSiteNew\\wwwroot\\images\\pant2.png",
+      "PackagePath": "staticwebassets\\images\\pant2.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DBSiteNew.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DBSiteNew.props",
+      "PackagePath": "build\\DBSiteNew.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DBSiteNew.props",
+      "PackagePath": "buildMultiTargeting\\DBSiteNew.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DBSiteNew.props",
+      "PackagePath": "buildTransitive\\DBSiteNew.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
